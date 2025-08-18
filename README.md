@@ -1,5 +1,14 @@
-<h1 align="center">Hi 👋, I'm Pathum Piyumal</h1>
+<!-- Typing Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0ef7ff&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Pathum+Piyumal;Frontend+Developer+💻;Open+Source+Enthusiast+🌍;Tech+Explorer+🚀;Always+learning+new+things+📚" alt="Typing Animation" />
+</h1>
+
 <h3 align="center">🚀 A passionate frontend developer from Sri Lanka</h3>
+
+<!-- Tech GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Tech gif" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pathum-piyumal&label=Profile%20views&color=0e75b6&style=flat" alt="pathum-piyumal" />
@@ -19,36 +28,28 @@
 ---
 
 ### 🌐 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/pathum piyumal kumarathunga" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-<a href="https://kaggle.com/r.m.p.piyumal" target="blank"><img align="center" src="https://skillicons.dev/icons?i=kaggle" height="40" /></a>
-<a href="https://fb.com/pathum piyumal kumarathunga" target="blank"><img align="center" src="https://skillicons.dev/icons?i=facebook" height="40" /></a>
-<a href="https://instagram.com/pathuma_27" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-<a href="https://www.hackerrank.com/pathumpiyumal013" target="blank"><img align="center" src="https://skillicons.dev/icons?i=hackerrank" height="40" /></a>
-<a href="https://www.leetcode.com/pathum_piyumal" target="blank"><img align="center" src="https://skillicons.dev/icons?i=leetcode" height="40" /></a>
+<p align="center">
+<a href="https://linkedin.com/in/pathum piyumal kumarathunga" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+<a href="https://kaggle.com/r.m.p.piyumal" target="blank"><img src="https://skillicons.dev/icons?i=kaggle" height="45"/></a>
+<a href="https://fb.com/pathum piyumal kumarathunga" target="blank"><img src="https://skillicons.dev/icons?i=facebook" height="45"/></a>
+<a href="https://instagram.com/pathuma_27" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
+<a href="https://www.hackerrank.com/pathumpiyumal013" target="blank"><img src="https://skillicons.dev/icons?i=hackerrank" height="45"/></a>
+<a href="https://www.leetcode.com/pathum_piyumal" target="blank"><img src="https://skillicons.dev/icons?i=leetcode" height="45"/></a>
 </p>
 
 ---
 
 ### 🛠️ Languages & Tools
 <p align="center">
-<a href="https://getbootstrap.com" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" height="50"/></a>
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://skillicons.dev/icons?i=c" height="50"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" height="50"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="50"/></a>
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="50"/></a>
-<a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" height="50"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="50"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="50"/></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" height="50"/></a>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,bootstrap,git,c" height="60"/>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pathum-Piyumal&show_icons=true&theme=radical" alt="stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pathum-Piyumal&theme=radical" alt="streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pathum-Piyumal&show_icons=true&theme=tokyonight" alt="stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pathum-Piyumal&theme=tokyonight" alt="streak" height="165"/>
 </p>
 
 <p align="center">
