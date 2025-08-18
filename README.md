@@ -5,9 +5,9 @@
 
 <h3 align="center">🚀 A passionate frontend developer from Sri Lanka</h3>
 
-<!-- Tech GIF -->
+<!-- Futuristic Data Flow GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Tech gif" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnR0bGNzYnlpMndsdWZicTR4bDBpb3lwdTBhcmRjdXVydThwYmVkZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" alt="Data Flow Tech gif" />
 </p>
 
 <p align="center">
