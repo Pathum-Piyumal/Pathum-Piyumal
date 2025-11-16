@@ -19,7 +19,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **[TravelBloom](https://github.com/Pathum-Piyumal/TravelBloom.git)**  
+- 🔭 I’m currently working on **[MindEase](https://github.com/Pathum-Piyumal/MindEase.git)**  
 - 🌱 I’m currently learning **React, Node.js, Java**  
 - 💬 Ask me about **Java**  
 - 📫 Reach me at **pathumpiyumal013@gmail.com**  
