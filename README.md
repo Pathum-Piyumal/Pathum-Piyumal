@@ -1,3 +1,4 @@
+
 <!-- Typing Animation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0ef7ff&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Pathum+Piyumal;Frontend+Developer+💻;Open+Source+Enthusiast+🌍;Tech+Explorer+🚀;Always+learning+new+things+📚" alt="Typing Animation" />
@@ -11,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pathum-piyumal&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=pathum-piyumal&label=Profile%20views&color=0e75b6&style=flat" alt="pathum-piyumal" />
   <img src="https://img.shields.io/github/followers/Pathum-Piyumal?label=Followers&style=social" alt="followers" />
   <img src="https://img.shields.io/github/stars/Pathum-Piyumal?label=Stars&style=social" alt="stars" />
 </p>
@@ -19,10 +20,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **[RoadAware](https://github.com/Pathum-Piyumal/RoadAware)**
-- 🌱 I’m currently learning **Machine Learning**
-- 📫 Reach me at **pathumpiyumal013@gmail.com**
-- ⚡ Fun fact: **Call me Keba 😄**
+- 🔭 I’m currently working on **[RoadAware]((https://github.com/Pathum-Piyumal/RoadAware))**  
+- 🌱 I’m currently learning **Machine Learning**  
+- 📫 Reach me at **pathumpiyumal013@gmail.com**  
+- ⚡ Fun fact: **Call me Keba** 😄  
 
 ---
 
@@ -60,3 +61,4 @@
 ---
 
 ⭐️ From [Pathum-Piyumal](https://github.com/Pathum-Piyumal)
+
