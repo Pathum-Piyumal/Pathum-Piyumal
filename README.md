@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pathum-piyumal&label=Profile%20views&color=0e75b6&style=flat" alt="pathum-piyumal" />
+  <img src="https://komarev.com/ghpvc/?username=pathum-piyumal&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Pathum-Piyumal?label=Followers&style=social" alt="followers" />
   <img src="https://img.shields.io/github/stars/Pathum-Piyumal?label=Stars&style=social" alt="stars" />
 </p>
@@ -19,10 +19,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **[RoadAware](https://github.com/Pathum-Piyumal/MindEase.git)**  
-- 🌱 I’m currently learning **Machine Learning**  
-- 📫 Reach me at **pathumpiyumal013@gmail.com**  
-- ⚡ Fun fact: **Call me Keba** 😄  
+- 🔭 I’m currently working on **[RoadAware](https://github.com/Pathum-Piyumal/RoadAware)**
+- 🌱 I’m currently learning **Machine Learning**
+- 📫 Reach me at **pathumpiyumal013@gmail.com**
+- ⚡ Fun fact: **Call me Keba 😄**
 
 ---
 
@@ -40,7 +40,9 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,bootstrap,git,c" height="60"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,bootstrap,git,c,python,mysql,mongodb,spring,docker,kubernetes,jenkins,express" height="60"/>
+
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn" height="60"/>
 </p>
 
 ---
