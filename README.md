@@ -19,11 +19,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **[MindEase](https://github.com/Pathum-Piyumal/MindEase.git)**  
-- 🌱 I’m currently learning **React, Node.js, Java**  
-- 💬 Ask me about **Java**  
+- 🔭 I’m currently working on **[RoadAware](https://github.com/Pathum-Piyumal/MindEase.git)**  
+- 🌱 I’m currently learning **Machine Learning**  
 - 📫 Reach me at **pathumpiyumal013@gmail.com**  
-- ⚡ Fun fact: **Call me PP** 😄  
+- ⚡ Fun fact: **Call me Keba** 😄  
 
 ---
 
