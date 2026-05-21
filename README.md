@@ -20,7 +20,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **[RoadAware]((https://github.com/Pathum-Piyumal/RoadAware))**  
+- 🔭 I’m currently working on **[RoadAware]([(https://github.com/Pathum-Piyumal/RoadAware)])**  
 - 🌱 I’m currently learning **Machine Learning**  
 - 📫 Reach me at **pathumpiyumal013@gmail.com**  
 - ⚡ Fun fact: **Call me Keba** 😄  
